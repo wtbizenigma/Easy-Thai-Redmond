@@ -41,8 +41,8 @@
   color: red;
   margin-top: 25px;
   /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-  font-size: 18px;
-  line-height: 1rem;
+  font-size: 16px;
+  line-height: 0.75rem;
 }
 
 .menu-lists {
@@ -50,7 +50,7 @@
   padding: 0.5rem;
   color: black;
   list-style-type: none;
-  line-height: 0.55rem;
+  line-height: 0.4rem;
 }
 
 ul {
