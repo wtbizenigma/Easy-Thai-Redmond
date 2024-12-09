@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 0px;
 }
 
 .image-grid {
@@ -9,7 +9,9 @@ body {
 
   box-sizing: border-gox;
   padding: var(--gap);
-  margin-bottom: 5px;
+  margin-bottom: 40;
+  justify-content: center;
+  align-items: center;
 
   display: grid;
   grid-template-columns: repeat(var(--num-cols), 1fr);
@@ -37,6 +39,7 @@ body {
 
 .letusknow {
   text-align: center;
+  color: green;
 }
 
 /* Anything under 1024px */
